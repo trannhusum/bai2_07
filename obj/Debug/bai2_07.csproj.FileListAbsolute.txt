@@ -1,0 +1,7 @@
+D:\visual studio\BaiTapCodeGym\bai2_07\bin\Debug\bai2_07.exe.config
+D:\visual studio\BaiTapCodeGym\bai2_07\bin\Debug\bai2_07.exe
+D:\visual studio\BaiTapCodeGym\bai2_07\bin\Debug\bai2_07.pdb
+D:\visual studio\BaiTapCodeGym\bai2_07\obj\Debug\bai2_07.csproj.AssemblyReference.cache
+D:\visual studio\BaiTapCodeGym\bai2_07\obj\Debug\bai2_07.csproj.CoreCompileInputs.cache
+D:\visual studio\BaiTapCodeGym\bai2_07\obj\Debug\bai2_07.exe
+D:\visual studio\BaiTapCodeGym\bai2_07\obj\Debug\bai2_07.pdb
